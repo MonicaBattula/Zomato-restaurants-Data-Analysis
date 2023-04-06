@@ -66,5 +66,5 @@ Importing the data into the database: -
 | Votes                | int          |
 
 -The relation among tables is demonstrated by the below E-R model:
-![Entity Relationship model](er_model.png)
-![Tables](tables.png)
+<img src="er_model.png" alt="Entity Relationship model" width="550" align="left"/>
+<img src="tables.png" alt="Tables" width="550" align="left"/>
