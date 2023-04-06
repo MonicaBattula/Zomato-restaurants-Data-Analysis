@@ -2,7 +2,7 @@
 
 Data collection: - 
 
-The dataset Zomato restaurants have been fetched from the following link on Kaggle.
+The dataset Zomato restaurants have been fetched from the following link on Kaggle. <br>
 Dataset: - https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
 This dataset contains the following columns: -
